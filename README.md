@@ -1,2 +1,2 @@
 # code-refinery-november
-Code for the "Code Refinary" workshop
+Code for the "Code Refinery" workshop
